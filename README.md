@@ -2,7 +2,7 @@
 
 Prepare to go on the ultimate adrenaline-fueled adventure with our game, a chaotic trip filled with twists, turns, and joy! Dash across dazzling settings full of challenges, but don't worry, since you'll have the opportunity to gather great power-ups along the way.
 Please open this project in Unity, install all the dependencies (if needed), then make a build in order to be able to run the game.
-![image](https://github.com/telattar/go-go-power-rangers/assets/110330655/02b3fd5d-2c52-4513-9000-cb2eabee14e5)
+![Screenshot (161)](https://github.com/telattar/unity-go-go-power-rangers/assets/110330655/e85ef74a-7450-4324-936a-853beb31aba7)
 
 ## How to Play 🤔❓
 - Use the left and right arrow keys or 'A' and 'D' keys to steer your sphere left or right, changing lanes to avoid obstacles.
