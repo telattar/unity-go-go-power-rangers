@@ -1,6 +1,7 @@
 # Go Go Power Rangers! 🎮
 
 Prepare to go on the ultimate adrenaline-fueled adventure with our game, a chaotic trip filled with twists, turns, and joy! Dash across dazzling settings full of challenges, but don't worry, since you'll have the opportunity to gather great power-ups along the way.
+
 Please open this project in Unity, install all the dependencies (if needed), then make a build in order to be able to run the game.
 ![Screenshot (161)](https://github.com/telattar/unity-go-go-power-rangers/assets/110330655/e85ef74a-7450-4324-936a-853beb31aba7)
 
@@ -19,3 +20,6 @@ Please open this project in Unity, install all the dependencies (if needed), the
 - You will revert back to normal form upon hitting an obstacle in coloured form.
 - No worries, you won't be damaged multiple times by the same obstacle.
 - You die (in the game) upon hitting an obstacle when in normal form.
+
+
+Credits to Tarteel Elattar. All rights reserved.
